@@ -1,0 +1,3 @@
+displayName = Jades Simple Class Based Damage Scaler
+author = OmegaJade
+version = 0.1

@@ -1,0 +1,70 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		MeleeDamageScaler: {
+			Label: Melee Damage Scaler
+			Tooltip: ""
+		}
+
+		RangedDamageScaler: {
+			Label: Ranged Damage Scaler
+			Tooltip: ""
+		}
+
+		MagicDamageScaler: {
+			Label: Magic Damage Scaler
+			Tooltip: ""
+		}
+
+		SummonDamageScaler: {
+			Label: Summon Damage Scaler
+			Tooltip: ""
+		}
+
+		ThrowingDamageScaler: {
+			Label: Throwing Damage Scaler
+			Tooltip: ""
+		}
+
+		DefaultDamageScaler: {
+			Label: Default Damage Scaler
+			Tooltip: This scales the damage of all weapons that do not fit into the above 5 classes
+		}
+
+		MeleeCritScaler: {
+			Label: Melee Crit Scaler
+			Tooltip: ""
+		}
+
+		RangedCritScaler: {
+			Label: Ranged Crit Scaler
+			Tooltip: ""
+		}
+
+		MagicCritScaler: {
+			Label: Magic Crit Scaler
+			Tooltip: ""
+		}
+
+		SummonCritScaler: {
+			Label: Summon Crit Scaler
+			Tooltip: ""
+		}
+
+		ThrowingCritScaler: {
+			Label: Throwing Crit Scaler
+			Tooltip: ""
+		}
+
+		DefaultCritScaler: {
+			Label: Default Crit Scaler
+			Tooltip: This scales the damage of all weapons that do not fit into the above 5 classes
+		}
+
+		Headers: {
+			DamageScalers: Damage Scalers
+			CritChanceScalers: Crit Chance Scalers
+		}
+	}
+}
