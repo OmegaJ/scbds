@@ -1,2 +1,4 @@
 Allows you to modify damage and crit chances of all weapons based on class.
 Only directly handles vaninilla classes, all modded classes would be affected by default
+
+Icon made by Neobind, check out their resourse pack: https://steamcommunity.com/sharedfiles/filedetails/?id=2479967021
